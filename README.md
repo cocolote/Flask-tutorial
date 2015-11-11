@@ -12,7 +12,7 @@ application with a DB on Sqlite and basic interaction
 
 * Create a virtual enviroment `mkvirtualenv flaskr`
 
-* Iside the app directory run `pip install requirements.txt this will install all
+* Iside the app directory run `pip install requirements.txt` this will install all
 the required libraries into the virtualenv 
 
 * To create the DB, enter in python shell command line `python`
